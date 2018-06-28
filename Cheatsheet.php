@@ -1,8 +1,15 @@
 <?php
 
+/* 
+ *Author: Giedrius Kristinaitis 
+ */
+
 /***********************************************************
-*	             The Ultimate PHP Cheatsheet               *
-*			   (Requires understanding of PHP) 			   *
+*	             PHP Cheatsheet               
+*	     (Requires understanding of PHP) 
+*	     
+*	     This file contains random stuff written 
+*	     in PHP. Why? Because why not...
 ************************************************************/
 
 // ********* PHP Syntax ********* //

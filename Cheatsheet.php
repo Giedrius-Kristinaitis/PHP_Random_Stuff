@@ -5,9 +5,9 @@
  */
 
 /***********************************************************
-*	           			PHP Cheatsheet               
-*			   (Requires understanding of PHP) 			   
-*					Why? Because why not...
+*	           	PHP Cheatsheet               
+*		(Requires understanding of PHP) 			   
+*		     Why? Because why not...
 ************************************************************/
 
 // ********* PHP Syntax ********* //

@@ -8,6 +8,14 @@
 *	           	PHP Cheatsheet               
 *		(Requires understanding of PHP) 			   
 *		     Why? Because why not...
+*
+*	Seriously I do not know why I wrote all of this
+*	This is so random
+*	I mean, it's not like I will ever forget
+*	the principles of OOP or basic array and loop
+*	syntax
+*	But maybe this could be useful for others to
+*	learn PHP programming language
 ************************************************************/
 
 // ********* PHP Syntax ********* //
